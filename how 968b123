@@ -1,0 +1,69 @@
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  1) <!DOCTYPE html>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  2) <html lang="en">
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  3) <head>
+968b1232 (immualisale 2026-06-01 07:19:21 +0300  4)     <link rel="stylesheet" href="css/style.css">
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  5)     <meta charset="UTF-8">
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  6)     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  7)     <title>Maisara Tennis Club</title>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300  8) </head>
+968b1232 (immualisale 2026-06-01 07:19:21 +0300  9) <script src="js/main.js"></script>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 10) <body>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 11) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 12)     <header>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 13)         <h1>Maisara Tennis Club</h1>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 14)         <p>Developing Tennis Excellence in Zanzibar</p>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 15)     </header>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 16) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 17)     <nav>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 18)         <ul>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 19)             <li><a href="#">Home</a></li>
+44aa6261 (immualisale 2026-06-02 22:29:15 +0300 20)             <li><a href="about.html">About Us</a></li>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 21)             <li><a href="#">Juniors Program</a></li>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 22)             <li><a href="#">Coaching</a></li>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 23)             <li><a href="#">Gallery</a></li>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 24)             <li><a href="#">Contact</a></li>
+662ed552 (immualisale 2026-06-01 07:52:43 +0300 25)         </ul>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 26)     </nav>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 27) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 28)     <main>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 29)         <h2>Welcome to Maisara Tennis Club</h2>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 30) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 31)         <p>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 32)             Maisara Tennis Club is one of the leading tennis facilities in Zanzibar,
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 33)             providing opportunities for juniors, adults, and wheelchair tennis players.
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 34)         </p>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 35) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 36)         <h3>Our Programs</h3>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 37) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 38)         <ul>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 39)             <li>Junior Development Program</li>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 40)             <li>Adult Tennis Training</li>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 41)             <li>Wheelchair Tennis</li>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 42)             <li>Community Tennis Activities</li>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 43)         </ul>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 44)             <!-- HAPA NDIPO UTAONGEZA -->
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 45) 
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 46)         <section>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 47)             <h2>Juniors Development Program</h2>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 48) 
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 49)             <p>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 50)                 Our Juniors Development Program is designed to introduce children
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 51)                 and young players to tennis in a fun and structured environment.
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 52)             </p>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 53) 
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 54)             <h3>Training Days</h3>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 55) 
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 56)             <ul>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 57)                 <li>Friday</li>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 58)                 <li>Saturday</li>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 59)                 <li>Sunday</li>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 60)             </ul>
+40e713a4 (immualisale 2026-06-01 15:48:34 +0300 61)         </section>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 62)     </main>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 63) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 64)     <footer>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 65)         <p>&copy; 2026 Maisara Tennis Club - Zanzibar</p>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 66)     </footer>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 67) 
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 68) </body>
+^7d12ef4 (immualisale 2026-06-01 06:45:54 +0300 69) </html>
